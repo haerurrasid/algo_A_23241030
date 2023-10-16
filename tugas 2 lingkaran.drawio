@@ -1,9 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T02:17:37.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.4" etag="5gJJIqfm97r4Tt5S_Eeq" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T02:23:50.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="WroK1x8LV8uwoUr2VOez" version="22.0.4" type="github">
   <diagram name="Page-1" id="Ipf7HZXX9dG3UrqujQIB">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vrnf3rqlJf8lmV9HZB7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-1" value="mulai" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vrnf3rqlJf8lmV9HZB7-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-3" value="&lt;div&gt;menghitung &lt;br&gt;&lt;/div&gt;&lt;div&gt;luas &lt;br&gt;&lt;/div&gt;&lt;div&gt;lingkaran&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vrnf3rqlJf8lmV9HZB7-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-5" value="&lt;div&gt;PHI-22/7&lt;/div&gt;&lt;div&gt;D-10&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vrnf3rqlJf8lmV9HZB7-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-7" value="&lt;div&gt;Luas O-&lt;/div&gt;&lt;div&gt;PHI(22/7) Dikali&lt;/div&gt;&lt;div&gt;Diameter&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2vrnf3rqlJf8lmV9HZB7-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-9" value="luas lingkaran" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2vrnf3rqlJf8lmV9HZB7-11" value="finish" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="530" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
